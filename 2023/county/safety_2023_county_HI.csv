@@ -1,0 +1,16 @@
+"geoid","geolevel","year","crime_score","infrastructure_score","social_cohesion_score","structural_composition_score","level","value"
+"15001","county",2023,101.04,102.82,89.38,102.23,"safety_score",95.15
+"15003","county",2023,104.81,102.57,77.88,118.07,"safety_score",71.99
+"15005","county",2023,NA,NA,NA,NA,"safety_score",NA
+"15007","county",2023,99.35,96.03,90.03,101.89,"safety_score",98.52
+"15009","county",2023,103.81,95.69,83.93,107.12,"safety_score",92.64
+"15001","county",2023,101.04,102.82,89.38,102.23,"safety_rnk",34.2466
+"15003","county",2023,104.81,102.57,77.88,118.07,"safety_rnk",8.873
+"15005","county",2023,NA,NA,NA,NA,"safety_rnk",NA
+"15007","county",2023,99.35,96.03,90.03,101.89,"safety_rnk",40.5044
+"15009","county",2023,103.81,95.69,83.93,107.12,"safety_rnk",29.8879
+"15001","county",2023,101.04,102.82,89.38,102.23,"safety_state_rnk",66.6667
+"15003","county",2023,104.81,102.57,77.88,118.07,"safety_state_rnk",0
+"15005","county",2023,NA,NA,NA,NA,"safety_state_rnk",NA
+"15007","county",2023,99.35,96.03,90.03,101.89,"safety_state_rnk",100
+"15009","county",2023,103.81,95.69,83.93,107.12,"safety_state_rnk",33.3333

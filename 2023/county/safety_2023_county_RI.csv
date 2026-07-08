@@ -1,0 +1,16 @@
+"geoid","geolevel","year","crime_score","infrastructure_score","social_cohesion_score","structural_composition_score","level","value"
+"44001","county",2023,105.81,104.31,98.09,94.7,"safety_score",98.83
+"44003","county",2023,105.05,103.17,94.57,99.14,"safety_score",88.1
+"44005","county",2023,103.79,104.22,96.63,109.28,"safety_score",83.78
+"44007","county",2023,102.07,101.76,58.45,117.89,"safety_score",61.26
+"44009","county",2023,105.38,100.19,106.78,81.22,"safety_score",114.64
+"44001","county",2023,105.81,104.31,98.09,94.7,"safety_rnk",41.2516
+"44003","county",2023,105.05,103.17,94.57,99.14,"safety_rnk",23.1943
+"44005","county",2023,103.79,104.22,96.63,109.28,"safety_rnk",18.2441
+"44007","county",2023,102.07,101.76,58.45,117.89,"safety_rnk",3.9851
+"44009","county",2023,105.38,100.19,106.78,81.22,"safety_rnk",77.4284
+"44001","county",2023,105.81,104.31,98.09,94.7,"safety_state_rnk",75
+"44003","county",2023,105.05,103.17,94.57,99.14,"safety_state_rnk",50
+"44005","county",2023,103.79,104.22,96.63,109.28,"safety_state_rnk",25
+"44007","county",2023,102.07,101.76,58.45,117.89,"safety_state_rnk",0
+"44009","county",2023,105.38,100.19,106.78,81.22,"safety_state_rnk",100

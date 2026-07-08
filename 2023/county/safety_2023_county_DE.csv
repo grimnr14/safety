@@ -1,0 +1,10 @@
+"geoid","geolevel","year","crime_score","infrastructure_score","social_cohesion_score","structural_composition_score","level","value"
+"10001","county",2023,100.41,103.43,94.03,110.09,"safety_score",88.52
+"10003","county",2023,103.27,102.54,87.84,108.36,"safety_score",83.83
+"10005","county",2023,101.13,101.21,102.09,94.4,"safety_score",109.16
+"10001","county",2023,100.41,103.43,94.03,110.09,"safety_rnk",23.6924
+"10003","county",2023,103.27,102.54,87.84,108.36,"safety_rnk",18.3375
+"10005","county",2023,101.13,101.21,102.09,94.4,"safety_rnk",66.3761
+"10001","county",2023,100.41,103.43,94.03,110.09,"safety_state_rnk",50
+"10003","county",2023,103.27,102.54,87.84,108.36,"safety_state_rnk",0
+"10005","county",2023,101.13,101.21,102.09,94.4,"safety_state_rnk",100
